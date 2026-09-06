@@ -35,7 +35,7 @@ for p in [
 
 # Dataset configuration
 HF_DATASET_NAME = "michaelozon/candidate-matching-synthetic"
-HF_HUB_MODEL_ID = "anshika-saklani/resume-job-distilbert"
+HF_HUB_MODEL_ID = "Anshika0509/distilbert-resume-job-matcher"
 
 # Random Seed
 SEED = 42
