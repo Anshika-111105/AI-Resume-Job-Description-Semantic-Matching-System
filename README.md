@@ -1,15 +1,3 @@
----
-title: AI Resume–Job Description Semantic Matching System
-emoji: 📄
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.28.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # AI Resume–Job Description Semantic Matching System
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org)
