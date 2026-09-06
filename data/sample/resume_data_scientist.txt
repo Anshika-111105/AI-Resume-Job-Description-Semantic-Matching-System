@@ -1,0 +1,26 @@
+Alex Morgan
+Email: alex.morgan@example.com | Phone: (555) 019-2834 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/alexmorgan-ds | GitHub: github.com/alexmorgan
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6+ years of experience specializing in Machine Learning, Natural Language Processing, and scalable predictive modeling. Proven track record in deploying end-to-end ML pipelines in AWS cloud environments.
+
+CORE COMPETENCIES
+- Programming: Python, SQL, R, Bash
+- Machine Learning & AI: Scikit-learn, PyTorch, TensorFlow, NLP, Transformers, XGBoost
+- Data & Analytics: Pandas, NumPy, Tableau, Power BI, Statistics, A/B Testing
+- Cloud & DevOps: AWS (EC2, S3, SageMaker), Docker, Git, CI/CD
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist | CloudTech Solutions (2021 - Present)
+- Architected and deployed customer churn prediction model using XGBoost and PyTorch, increasing retention by 18%.
+- Built automated NLP semantic matching engine with Hugging Face Transformers, processing 50k documents daily.
+- Designed and evaluated over 30 A/B testing experiments on product pricing algorithms.
+
+Data Analyst | Analytics Insights Corp (2018 - 2021)
+- Built automated executive reporting dashboards in Power BI and SQL querying Snowflake warehouses.
+- Created data cleaning and feature engineering pipelines in Python and Pandas.
+
+EDUCATION
+Master of Science in Computer Science (Data Science) | Stanford University
+Bachelor of Science in Applied Mathematics | UC Berkeley
