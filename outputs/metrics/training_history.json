@@ -4,10 +4,18 @@
   "batch_size": 16,
   "learning_rate": 2e-05,
   "max_length": 128,
-  "train_loss_final": 1.054,
-  "val_loss_final": 1.076,
-  "val_macro_f1_final": 0.4215,
-  "val_accuracy_final": 0.4667,
-  "train_samples": 90,
-  "val_samples": 30
+  "train_loss_final": 0.952558341779207,
+  "val_loss_final": 0.7616511583328247,
+  "val_macro_f1_final": 0.5766124676743994,
+  "val_accuracy_final": 0.64,
+  "train_samples": 300,
+  "val_samples": 75,
+  "val_metrics": {
+    "eval_loss": 0.7616511583328247,
+    "eval_accuracy": 0.64,
+    "eval_precision": 0.6960864805692392,
+    "eval_recall": 0.64,
+    "eval_macro_f1": 0.5766124676743994,
+    "eval_weighted_f1": 0.5766124676743993
+  }
 }

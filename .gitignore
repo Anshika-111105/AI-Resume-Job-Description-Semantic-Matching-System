@@ -48,7 +48,10 @@ htmlcov/
 # Hugging Face and PyTorch model caches / weights
 data/raw/*.parquet
 data/raw/*.arrow
-models/distilbert_resume_matcher/checkpoint-*
+models/**/checkpoints/
+models/**/checkpoint-*/
+**/checkpoint-*/
+**/checkpoints/
 models/distilbert_resume_matcher/*.safetensors
 models/distilbert_resume_matcher/*.bin
 *.safetensors
