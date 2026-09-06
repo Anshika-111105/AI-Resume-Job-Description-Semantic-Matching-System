@@ -1,8 +1,3 @@
-"""
-Data Loader Module
-AI Resume–Job Description Semantic Matching System
-"""
-
 from pathlib import Path
 from typing import Dict, Optional, Tuple
 import pandas as pd
@@ -17,10 +12,6 @@ logger = get_logger("data_loader")
 def load_raw_dataset(force_download: bool = False) -> pd.DataFrame:
     """
     Load raw resumes dataset from Hugging Face Hub (michaelozon/candidate-matching-synthetic).
-    Caches the dataset as a local CSV in data/raw/ for offline reproducibility.
-
-    Returns:
-        pd.DataFrame: Raw resumes dataframe with all metadata fields.
     """
     raw_cache_path = RAW_DATA_DIR / "raw_resumes.csv"
 

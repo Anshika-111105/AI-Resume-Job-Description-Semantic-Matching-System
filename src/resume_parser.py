@@ -1,13 +1,3 @@
-"""
-Resume Parser Module
-AI Resume–Job Description Semantic Matching System
-
-Extracts raw and structured text from:
-- PDF (.pdf)
-- Word Documents (.docx)
-- Plain Text (.txt)
-"""
-
 import io
 import os
 from pathlib import Path

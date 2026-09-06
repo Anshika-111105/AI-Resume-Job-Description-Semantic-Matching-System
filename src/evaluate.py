@@ -1,8 +1,3 @@
-"""
-Evaluation & Error Analysis Module
-AI Resume–Job Description Semantic Matching System
-"""
-
 import json
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union

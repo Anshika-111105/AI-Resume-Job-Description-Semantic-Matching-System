@@ -1,15 +1,3 @@
-"""
-Skill Extractor & Skill Gap Analysis Module
-AI Resume–Job Description Semantic Matching System
-
-Features:
-- Multi-category technical & domain skill taxonomy
-- Robust regex matching with boundary protection for C++, .NET, CI/CD, etc.
-- Alias canonicalization (e.g. sklearn -> scikit-learn, postgres -> postgresql)
-- Skill gap analysis comparing candidate resumes against job descriptions
-- Actionable rule-based candidate recommendations
-"""
-
 import re
 from typing import Dict, List, Set, Tuple
 

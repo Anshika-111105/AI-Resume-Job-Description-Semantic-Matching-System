@@ -1,8 +1,3 @@
-"""
-Text Preprocessing Module
-AI Resume–Job Description Semantic Matching System
-"""
-
 import re
 import unicodedata
 from typing import Dict, List, Optional, Tuple, Union

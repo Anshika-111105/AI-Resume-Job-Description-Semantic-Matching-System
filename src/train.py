@@ -1,8 +1,3 @@
-"""
-DistilBERT Training & Fine-Tuning Module
-AI Resume–Job Description Semantic Matching System
-"""
-
 import os
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union

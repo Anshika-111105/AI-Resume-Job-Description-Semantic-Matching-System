@@ -1,13 +1,3 @@
-"""
-Dataset Builder & Pair Generation Module
-AI Resume–Job Description Semantic Matching System
-
-Constructs reproducible, zero-leakage Candidate-Job Description pairs:
-- Label 0: No Fit (Unrelated domain, non-matching skills)
-- Label 1: Potential Fit (Adjacent role family, partial skill overlap)
-- Label 2: Good Fit (Target role family, high skill overlap, matching seniority)
-"""
-
 import random
 from pathlib import Path
 from typing import Dict, List, Tuple
