@@ -49,6 +49,9 @@ htmlcov/
 data/raw/*.parquet
 data/raw/*.arrow
 models/distilbert_resume_matcher/checkpoint-*
+models/distilbert_resume_matcher/*.safetensors
+models/distilbert_resume_matcher/*.bin
+*.safetensors
 *.bin
 *.pt
 *.pth

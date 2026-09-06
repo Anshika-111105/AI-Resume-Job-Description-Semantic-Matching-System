@@ -1,0 +1,13 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_epochs": 2,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "max_length": 128,
+  "train_loss_final": 1.054,
+  "val_loss_final": 1.076,
+  "val_macro_f1_final": 0.4215,
+  "val_accuracy_final": 0.4667,
+  "train_samples": 90,
+  "val_samples": 30
+}

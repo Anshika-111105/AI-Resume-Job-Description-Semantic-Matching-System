@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,Macro F1,Weighted F1
+TF-IDF Cosine Similarity,0.9647,0.9647,0.9647,0.9647,0.9647
+TF-IDF + Logistic Regression,0.9949,0.9949,0.9949,0.9949,0.9949

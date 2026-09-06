@@ -1,0 +1,25 @@
+{
+  "total_resumes": 10000,
+  "train_resumes": 7000,
+  "val_resumes": 1500,
+  "test_resumes": 1500,
+  "train_pairs": 21000,
+  "val_pairs": 4500,
+  "test_pairs": 4500,
+  "train_class_distribution": {
+    "No Fit": 7000,
+    "Good Fit": 7000,
+    "Potential Fit": 7000
+  },
+  "val_class_distribution": {
+    "Good Fit": 1500,
+    "Potential Fit": 1500,
+    "No Fit": 1500
+  },
+  "test_class_distribution": {
+    "Potential Fit": 1500,
+    "No Fit": 1500,
+    "Good Fit": 1500
+  },
+  "seed": 42
+}
