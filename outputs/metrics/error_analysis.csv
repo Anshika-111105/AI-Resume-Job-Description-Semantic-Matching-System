@@ -1,15 +1,5 @@
 index,candidate_role,job_role,true_label,predicted_label,confidence,error_category,resume_snippet,job_snippet
-0,Program Coordinator,Operations Manager,Potential Fit,Good Fit,0.3373,Adjacent Role Skill Overlap,"Title: Junior Program Coordinator
-Professional Summary: Program Coordinator with 1 years of experience in Travel.
-Industry Experience: Travel (1 years)
-Education: BSc
-Core Competencies: KPIs, Cross-functional Coordination, Reporting, Process Improvem...","Job Title: Mid Operations Manager
-Industry: Travel
-Experience Level: Mid (3+ years of relevant experience)
-Education Requirement: BSc or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Mid Operations Manager to..."
-2,Customer Success Associate,Customer Success Associate,Good Fit,No Fit,0.339,Document Length / Truncation Boundary,"Title: Senior Customer Success Associate
+2,Customer Success Associate,Customer Success Associate,Good Fit,Potential Fit,0.4221,Document Length / Truncation Boundary,"Title: Senior Customer Success Associate
 Professional Summary: Customer Success Associate with 7 years of experience in FinTech.
 Industry Experience: FinTech (7 years)
 Education: MSc
@@ -19,39 +9,7 @@ Experience Level: Senior (6+ years of relevant experience)
 Education Requirement: MSc or equivalent practical experience
 About the Role:
 We are seeking a talented and proactive Senior Cus..."
-3,Sales Representative,Customer Support Specialist,Potential Fit,Good Fit,0.3376,Adjacent Role Skill Overlap,"Title: Junior Sales Representative
-Professional Summary: Sales Representative with 1 years of experience in Travel.
-Industry Experience: Travel (1 years)
-Education: MBA
-Core Competencies: Forecasting, CRM, Account Management, Closing, Negotiation
-Pro...","Job Title: Mid Customer Support Specialist
-Industry: Travel
-Experience Level: Mid (3+ years of relevant experience)
-Education Requirement: MBA or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Mid Customer Sup..."
-4,Software Engineer,Backend Engineer,Potential Fit,No Fit,0.3378,Adjacent Role Skill Overlap,"Title: Senior Software Engineer
-Professional Summary: Software Engineer with 7 years of experience in SaaS.
-Industry Experience: SaaS (7 years)
-Education: MBA
-Core Competencies: Java, Python, Docker, REST APIs, Unit Testing, Databases, CI/CD
-Professi...","Job Title: Mid Backend Engineer
-Industry: SaaS
-Experience Level: Mid (9+ years of relevant experience)
-Education Requirement: MBA or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Mid Backend Engineer to join ..."
-6,Junior Accountant,Program Coordinator,Potential Fit,Good Fit,0.3375,Adjacent Role Skill Overlap,"Title: Junior Junior Accountant
-Professional Summary: Junior Accountant with 0 years of experience in Logistics.
-Industry Experience: Logistics (0 years)
-Education: MSc
-Core Competencies: Accounting, KPIs, Reporting, Forecasting, Excel, Cash Flow, Fi...","Job Title: Mid Program Coordinator
-Industry: Logistics
-Experience Level: Mid (2+ years of relevant experience)
-Education Requirement: MSc or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Mid Program Coordinat..."
-7,Technical Support Specialist,Technical Support Specialist,Good Fit,No Fit,0.3394,Document Length / Truncation Boundary,"Title: Senior Technical Support Specialist
+7,Technical Support Specialist,Technical Support Specialist,Good Fit,Potential Fit,0.4339,Document Length / Truncation Boundary,"Title: Senior Technical Support Specialist
 Professional Summary: Technical Support Specialist with 8 years of experience in Travel.
 Industry Experience: Travel (8 years)
 Education: BSc
@@ -61,28 +19,7 @@ Experience Level: Senior (7+ years of relevant experience)
 Education Requirement: BSc or equivalent practical experience
 About the Role:
 We are seeking a talented and proactive Senior Te..."
-8,Project Manager,Operations Manager,Potential Fit,No Fit,0.337,Adjacent Role Skill Overlap,"Title: Senior Project Manager
-Professional Summary: Project Manager with 11 years of experience in Travel.
-Industry Experience: Travel (11 years)
-Education: BSc
-Core Competencies: Risk Management, Asana, Process Improvement, KPIs, Jira, Stakeholder C...","Job Title: Mid Operations Manager
-Industry: Travel
-Experience Level: Mid (13+ years of relevant experience)
-Education Requirement: BSc or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Mid Operations Manager t..."
-9,Junior Accountant,Program Coordinator,Potential Fit,No Fit,0.3387,Adjacent Role Skill Overlap,"Title: Mid Junior Accountant
-Professional Summary: Junior Accountant with 5 years of experience in E-commerce.
-Industry Experience: E-commerce (5 years)
-Education: High School
-Core Competencies: Forecasting, Excel, Valuation, Accounting, Budgeting
-Pr...","Job Title: Senior Program Coordinator
-Industry: E-commerce
-Experience Level: Senior (7+ years of relevant experience)
-Education Requirement: High School or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Senior..."
-10,Junior Accountant,Junior Accountant,Good Fit,No Fit,0.3398,Document Length / Truncation Boundary,"Title: Junior Junior Accountant
+10,Junior Accountant,Junior Accountant,Good Fit,Potential Fit,0.4324,Document Length / Truncation Boundary,"Title: Junior Junior Accountant
 Professional Summary: Junior Accountant with 2 years of experience in Cybersecurity.
 Industry Experience: Cybersecurity (2 years)
 Education: MBA
@@ -92,18 +29,7 @@ Experience Level: Junior (1+ years of relevant experience)
 Education Requirement: MBA or equivalent practical experience
 About the Role:
 We are seeking a talented and proactive Junior Junior..."
-15,Software Engineer,Backend Engineer,Potential Fit,No Fit,0.3399,Adjacent Role Skill Overlap,"Title: Mid Software Engineer
-Professional Summary: Software Engineer with 3 years of experience in EdTech.
-Industry Experience: EdTech (3 years)
-Education: MSc
-Core Competencies: Databases, Unit Testing, OOP, JavaScript, Python
-Professional Experienc...","Job Title: Senior Backend Engineer
-Industry: EdTech
-Experience Level: Senior (5+ years of relevant experience)
-Education Requirement: MSc or equivalent practical experience
-About the Role:
-We are seeking a talented and proactive Senior Backend Engine..."
-16,Full Stack Engineer,Full Stack Engineer,Good Fit,No Fit,0.3383,Document Length / Truncation Boundary,"Title: Junior Full Stack Engineer
+16,Full Stack Engineer,Full Stack Engineer,Good Fit,Potential Fit,0.4127,Document Length / Truncation Boundary,"Title: Junior Full Stack Engineer
 Professional Summary: Full Stack Engineer with 2 years of experience in Gaming.
 Industry Experience: Gaming (2 years)
 Education: MSc
@@ -114,13 +40,87 @@ Experience Level: Junior (1+ years of relevant experience)
 Education Requirement: MSc or equivalent practical experience
 About the Role:
 We are seeking a talented and proactive Junior Full Stack ..."
-17,Product Manager,Associate Product Manager,Potential Fit,No Fit,0.3395,Adjacent Role Skill Overlap,"Title: Senior Product Manager
-Professional Summary: Product Manager with 9 years of experience in Cybersecurity.
-Industry Experience: Cybersecurity (9 years)
+19,Data Analyst,Data Analyst,Good Fit,Potential Fit,0.4291,Document Length / Truncation Boundary,"Title: Senior Data Analyst
+Professional Summary: Data Analyst with 11 years of experience in SaaS.
+Industry Experience: SaaS (11 years)
+Education: High School
+Core Competencies: Power BI, Tableau, Excel, Pandas, ETL, Statistics, SQL, Python
+Professio...","Job Title: Senior Data Analyst
+Industry: SaaS
+Experience Level: Senior (10+ years of relevant experience)
+Education Requirement: High School or equivalent practical experience
+About the Role:
+We are seeking a talented and proactive Senior Data Analys..."
+21,Technical Support Specialist,Technical Support Specialist,Good Fit,Potential Fit,0.4043,Document Length / Truncation Boundary,"Title: Mid Technical Support Specialist
+Professional Summary: Technical Support Specialist with 4 years of experience in Retail.
+Industry Experience: Retail (4 years)
 Education: MSc
-Core Competencies: Analytics, Scrum, User Research, PRD, Roadmap, Prioritizat...","Job Title: Mid Associate Product Manager
-Industry: Cybersecurity
-Experience Level: Mid (11+ years of relevant experience)
+Core Competencies: Communication, Troubleshooting, Intercom, Zendesk...","Job Title: Mid Technical Support Specialist
+Industry: Retail
+Experience Level: Mid (3+ years of relevant experience)
 Education Requirement: MSc or equivalent practical experience
 About the Role:
-We are seeking a talented and proactive Mid Associ..."
+We are seeking a talented and proactive Mid Technical S..."
+23,Content Marketer,Content Marketer,Good Fit,Potential Fit,0.4181,Document Length / Truncation Boundary,"Title: Mid Content Marketer
+Professional Summary: Content Marketer with 4 years of experience in EdTech.
+Industry Experience: EdTech (4 years)
+Education: BA
+Core Competencies: Conversion Optimization, Marketing Analytics, SEO, Email Marketing, A/B Te...","Job Title: Mid Content Marketer
+Industry: EdTech
+Experience Level: Mid (3+ years of relevant experience)
+Education Requirement: BA or equivalent practical experience
+About the Role:
+We are seeking a talented and proactive Mid Content Marketer to join..."
+24,Technical Product Manager,Technical Product Manager,Good Fit,Potential Fit,0.4224,Document Length / Truncation Boundary,"Title: Junior Technical Product Manager
+Professional Summary: Technical Product Manager with 1 years of experience in Cybersecurity.
+Industry Experience: Cybersecurity (1 years)
+Education: High School
+Core Competencies: A/B Testing, Analytics, User R...","Job Title: Junior Technical Product Manager
+Industry: Cybersecurity
+Experience Level: Junior (1+ years of relevant experience)
+Education Requirement: High School or equivalent practical experience
+About the Role:
+We are seeking a talented and proacti..."
+25,Junior Accountant,Junior Accountant,Good Fit,Potential Fit,0.4405,Document Length / Truncation Boundary,"Title: Senior Junior Accountant
+Professional Summary: Junior Accountant with 6 years of experience in FinTech.
+Industry Experience: FinTech (6 years)
+Education: BA
+Core Competencies: Excel, Forecasting, KPIs, Valuation, Reporting, Variance Analysis
+P...","Job Title: Senior Junior Accountant
+Industry: FinTech
+Experience Level: Senior (5+ years of relevant experience)
+Education Requirement: BA or equivalent practical experience
+About the Role:
+We are seeking a talented and proactive Senior Junior Accoun..."
+26,Product Manager,Product Manager,Good Fit,Potential Fit,0.4357,Document Length / Truncation Boundary,"Title: Mid Product Manager
+Professional Summary: Product Manager with 4 years of experience in Travel.
+Industry Experience: Travel (4 years)
+Education: BA
+Core Competencies: Roadmap, Stakeholder Management, Analytics, Prioritization, Product Strategy...","Job Title: Mid Product Manager
+Industry: Travel
+Experience Level: Mid (3+ years of relevant experience)
+Education Requirement: BA or equivalent practical experience
+About the Role:
+We are seeking a talented and proactive Mid Product Manager to join o..."
+27,Full Stack Engineer,Full Stack Engineer,Good Fit,Potential Fit,0.4201,Document Length / Truncation Boundary,"Title: Mid Full Stack Engineer
+Professional Summary: Full Stack Engineer with 6 years of experience in EdTech.
+Industry Experience: EdTech (6 years)
+Education: BSc
+Core Competencies: Python, Java, Docker, Git, Unit Testing, REST APIs, Databases
+Profe...","Job Title: Mid Full Stack Engineer
+Industry: EdTech
+Experience Level: Mid (5+ years of relevant experience)
+Education Requirement: BSc or equivalent practical experience
+About the Role:
+We are seeking a talented and proactive Mid Full Stack Engineer ..."
+35,Business Analyst,Business Analyst,Good Fit,Potential Fit,0.425,Document Length / Truncation Boundary,"Title: Senior Business Analyst
+Professional Summary: Business Analyst with 8 years of experience in E-commerce.
+Industry Experience: E-commerce (8 years)
+Education: BA
+Core Competencies: Data Visualization, Power BI, Tableau, Python, ETL
+Professional...","Job Title: Senior Business Analyst
+Industry: E-commerce
+Experience Level: Senior (7+ years of relevant experience)
+Education Requirement: BA or equivalent practical experience
+About the Role:
+We are seeking a talented and proactive Senior Business An..."
